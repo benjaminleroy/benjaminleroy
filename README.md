@@ -1,5 +1,6 @@
 
-<img align="right" src="http://benjaminleroy.github.io/images/me.jpg" />
+<img align="right" src="http://benjaminleroy.github.io/images/me.jpg"
+width="50%" />
 
 ### Hello there!
 I'm Benjamin LeRoy, and am a PhD student in the [Statistics and Data Science Department](http://www.stat.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu). I am interested in developing statistical tools to examine uncertainity for objects in complex high-dimensional spaces. I'm generally interested in statistical machine learning, statistics for physical and biological sciences, and good data science and coding practices.
