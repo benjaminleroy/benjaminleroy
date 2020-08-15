@@ -2,7 +2,7 @@
 width="50%" />
 
 ### Hello there!
-I'm Benjamin LeRoy, and am a PhD student in the [Statistics and Data Science Department](http://www.stat.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu). I am interested in developing statistical tools to examine uncertainity for objects in complex high-dimensional spaces. I'm generally interested in statistical machine learning, statistics for physical and biological sciences, and good data science and coding practices.
+I'm Benjamin LeRoy (He/His) and am a PhD student in the [Statistics and Data Science Department](http://www.stat.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu). I am interested in developing statistical tools to examine uncertainty for objects in complex high-dimensional spaces. I'm generally interested in statistical machine learning, statistics for physical and biological sciences, and good data science and coding practices.
 
 
 ### Get in touch
