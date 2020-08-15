@@ -16,7 +16,5 @@ Google Scholar: [Benjamin LeRoy - Google Scholar](https://scholar.google.com/cit
 <br>
 ResearchGate: [Benjamin LeRoy- ResearchGate](https://www.researchgate.net/profile/Benjamin_Leroy2)
 
-<br><br>
-
 <!-- [![benjaminleroy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=benjaminleroy&show_icons=true)](https://github.com/benjaminleroy)
 -->
