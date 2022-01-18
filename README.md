@@ -2,11 +2,10 @@
 width="50%" />
 
 ### Hello there!
-I'm Benjamin LeRoy (He/His) and am a PhD student in the [Statistics and Data Science Department](http://www.stat.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu). I am interested in developing statistical tools to examine uncertainty for objects in complex high-dimensional spaces. I'm generally interested in statistical machine learning, statistics for physical and biological sciences, and good data science and coding practices.
-
+I'm Benjamin LeRoy (He/His) and I received my Ph.D. from the Department of Statistics and Data Science at Carnegie Mellon University in December 2021 under the supervision of Professor Chad Schafer. My thesis focused on simulator-enabled conformal prediction. As a graduate student, my research interests broadly reflected interests in quantifying uncertainty within applications of machine learning, leveraging optimization to solve novel statistic problems, capturing complex trends with smart data visualization, and more.
 
 ### Get in touch
-Email: <a href="mailto:bpleroy@stat.cmu.edu"> bpleroy@stat.cmu.edu </a>
+Email: benjaminpeterleroy [at] gmail [dot] com
 <br>
 Webpage: [benjaminleroy.github.io](http://benjaminleroy.github.io)
 <br>
