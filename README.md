@@ -2,7 +2,12 @@
 width="50%" />
 
 ### Hello there!
-I'm Benjamin LeRoy (He/His) and I received my Ph.D. from the Department of Statistics and Data Science at Carnegie Mellon University in December 2021 under the supervision of Professor Chad Schafer. My thesis focused on simulator-enabled conformal prediction. As a graduate student, my research interests broadly reflected interests in quantifying uncertainty within applications of machine learning, leveraging optimization to solve novel statistic problems, capturing complex trends with smart data visualization, and more.
+
+I'm Benjamin LeRoy (He/Him) and I'm currently a Principal (Founding) Data Scientist at Nudge and Level Labs, working on 3d human and clothing modeling.
+
+Before that, I was at Nike in Product Supply Chain as a Senior Data Scientist working on discrete optimization and predictive modeling problems as well as risk measurement.
+
+I received my Ph.D. from the Statistics and Data Science Department at Carnegie Mellon University in December 2021 under the supervision of Professor Chad Schafer. My thesis focused on simulator-enabled conformal prediction. As a graduate student, my research interests broadly reflected interests in quantifying uncertainty within applications of machine learning, leveraging optimization to solve novel statistic problems, capturing complex trends with smart data visualization, and more.
 
 ### Get in touch
 Email: benjaminpeterleroy [at] gmail [dot] com
