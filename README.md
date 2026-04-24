@@ -5,7 +5,7 @@ width="50%" />
 
 I'm Benjamin LeRoy (He/Him) and I'm currently a Lead (Founding) Data Scientist at [Nudge and Level Labs](http://www.nudgeandlevel.com), working on 3d human and clothing modeling.
 
-Before that, I was at Nike in Product Supply Chain as a Senior Data Scientist working on discrete optimization and predictive modeling problems as well as risk measurement.
+Before that, I was at Nike in Product Supply Chain as a Senior Data Scientist working on discrete optimization and predictive modeling problems building supply planning solutions, measure better outcomes for risk measurement, rapidly prototype tools for changing duty scenarios.
 
 I received my Ph.D. from the Statistics and Data Science Department at Carnegie Mellon University in December 2021 under the supervision of Professor Chad Schafer. My thesis focused on simulator-enabled conformal prediction. As a graduate student, my research interests broadly reflected interests in quantifying uncertainty within applications of machine learning, leveraging optimization to solve novel statistic problems, capturing complex trends with smart data visualization, and more.
 
