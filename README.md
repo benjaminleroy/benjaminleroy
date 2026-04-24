@@ -3,7 +3,7 @@ width="50%" />
 
 ### Hello there!
 
-I'm Benjamin LeRoy (He/Him) and I'm currently a Lead (Founding) Data Scientist at [Nudge and Level Labs](nudgeandlevel.com), working on 3d human and clothing modeling.
+I'm Benjamin LeRoy (He/Him) and I'm currently a Lead (Founding) Data Scientist at [Nudge and Level Labs](http://www.nudgeandlevel.com), working on 3d human and clothing modeling.
 
 Before that, I was at Nike in Product Supply Chain as a Senior Data Scientist working on discrete optimization and predictive modeling problems as well as risk measurement.
 
